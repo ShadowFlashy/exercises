@@ -1,6 +1,7 @@
 import pytest
 
-
+def test_git():
+    pass
 
 def test_simple():
     pass
